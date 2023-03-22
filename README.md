@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Famsbook](https://flames-book.uc.r.appspot.com/)
 
-- 🌱 I’m currently learning **Redis, react**
+- 🌱 I’m currently learning **Typescript**
 
 - 💬 Ask me about **Node, express, mongo, javascript**
 
