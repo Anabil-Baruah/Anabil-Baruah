@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Typescript**
 
-- 💬 Ask me about **Node, express, mongo, javascript**
+- 💬 Ask me about **Node, express, mongo, javascript, APIs , Devops**
 
 - 📫 How to reach me **anabilbaruah2801@gmail.com**
 
