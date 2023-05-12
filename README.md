@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Node, express, mongo, javascript, APIs , Devops**
+- 💬 Ask me about **MERN stack, Node, Express, Mongo, Javascript, APIs , Devops**
 
 - 📫 How to reach me **anabilbaruah2801@gmail.com**
 
