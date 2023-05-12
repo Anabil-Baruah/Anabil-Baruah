@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anabil Baruah</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
-- 🔭 I’m currently working on [Famsbook](https://flames-book.uc.r.appspot.com/)
+- 🔭 I’m currently working on [Heal me right](https://www.healmeright.com/)
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **Node, express, mongo, javascript, APIs , Devops**
 
