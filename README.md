@@ -28,3 +28,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anabil-baruah&" alt="anabil-baruah" /></p>
 
+[![Anabil-Baruah's GitHub | Stats](https://stats.quine.sh/Anabil-Baruah/github?theme=dark)](https://quine.sh)
+
+[![Anabil-Baruah's GitHub | Languages](https://stats.quine.sh/Anabil-Baruah/languages-over-time?theme=dark)](https://quine.sh)
+
+[![Anabil-Baruah's GitHub | Topics](https://stats.quine.sh/Anabil-Baruah/topics-over-time?theme=dark)](https://quine.sh)
