@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Heal me right](https://www.healmeright.com/)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Devops**
 
 - 💬 Ask me about **MERN stack, Node, Express, Mongo, Javascript, APIs , Devops**
 
