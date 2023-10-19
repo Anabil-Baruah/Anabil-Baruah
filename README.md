@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working at [Heal me right](https://www.healmeright.com/)
+- 🔭 I’m currently working at [Contract Flo Technologies](https://www.contractflo.com/)
 
 - 🌱 I’m currently learning **Devops**
 
