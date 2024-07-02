@@ -5,7 +5,6 @@
 
 
 
-- 🔭 I’m currently working at [Contract Flo Technologies](https://www.contractflo.com/)
 
 - 🌱 I’m currently learning **Devops**
 
