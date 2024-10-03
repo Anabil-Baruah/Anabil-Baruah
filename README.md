@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **MERN stack, Node, Express, Mongo, Javascript, APIs , Devops**
 
-- 📫 How to reach me **anabilbaruah2801@gmail.com**
+- 📫 How to reach me **abilborah1@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
